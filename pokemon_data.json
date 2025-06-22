@@ -1,0 +1,17 @@
+[
+  {
+    "name":"Pikachu",
+    "height":4,
+    "base_experience":112
+  },
+  {
+    "name":"Charmander",
+    "height":6,
+    "base_experience":62
+  },
+  {
+    "name":"Bulbasaur",
+    "height":7,
+    "base_experience":64
+  }
+]
